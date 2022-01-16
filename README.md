@@ -1,1 +1,3 @@
-# Algorithms-And-Data-Structures
+# Алгоритмы и структуры данных
+## Стек
+
